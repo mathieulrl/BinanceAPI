@@ -3,8 +3,11 @@ School project : Use Crypto Exchange APIs
 
 ## Quickstart :
 • Create the database with createDatabase.js before starting
+
 • This code uses axios and sqlite3.
+
 • For the refreshDataCandle and refreshData functions, the updates are stored in the LastChecks table in the database.
+
 • Uncomment the lines at the end of the .js files to test each function.
 
 
